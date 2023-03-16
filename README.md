@@ -1,1 +1,7 @@
 # bhl-2023-abstract
+
+**Title**: echinopscis - an extensible notebook for open science on specimens
+
+**Abstract**
+
+Through BHL's lifetime, we've seen a vast increase in the volume of digital data available for research, along with improved tooling (for data access, analysis, visualisation and publishing), and more accessible resources for online participation and learning. We may be finally able to realise the promise of "e-taxonomy" - tooling and working practices to enable to online, collaborative taxonomic research - originally proposed alongside BHL. At Kew, we are developing "echinopscis" (https://echinopscis.github.io) - writing / linking / reference management tools for researchers to maximise use of digital resources. (By "references" we mean all the elements used by taxonomists when drafting monographic or floristic research, ie specimens, names, taxonomies, published descriptions, people and institutions - as well as literature references.) Research is often a personal and creative process - we want to enable maximum flexibility, for researchers to be "open to choose" how they organise their work. We are using open science principles and managing this effort as a community project, trying to deliver useful outputs (software, documentation, collaboration networks) as we go. We will discuss the work and future directions - integration with BHL APIs and the potential for interlinking BHL content using metadata resources like Taxonomic Literature 2. 
